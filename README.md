@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Goasler,
 - 👉 i am 37 years old and come from Bavaria in Germany.
-- 👀 I’m interested in Gaming, Linux, Photography, Radio Towers and Lift controller (PLC's or Relay Logic)
+- 👀 I’m interested in Gaming, Arduino, Linux, Photography, Radio Towers and Lift controller (PLC's or Relay Logic)
 - 🌱 I’m always learning new things while write scripts in Linux/bash or make Webdesign (including php&mysql)
 
 Hope you find my scripts/programs useful and interesting.
