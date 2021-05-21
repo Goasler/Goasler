@@ -3,7 +3,7 @@
 - 👀 I’m interested in Gaming, Linux, Photography, Radio Towers and Lift controller (PLC's or Relay Logic)
 - 🌱 I’m always learning new things while write scripts in Linux/bash or make Webdesign (including php&mysql)
 
-Hope you find my Programms useful and interesting.
+Hope you find my scripts/programs useful and interesting.
 I am always grateful for constructive tips for my Programs.
 
 I wish you all the best and have a nice day.
